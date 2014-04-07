@@ -1,0 +1,88 @@
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                        <img src="" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                        <h1>Left Column</h1>
+                        text here
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                        <img src="" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Right Column</h1>
+                        texthere
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="33%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                        <img src="" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                        <h1>Left Column</h1>
+                        texthere.
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="33%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="centerColumnContent">
+                        <img src="" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="centerColumnContent">
+                        <h1>Right Column</h1>
+                        texthere
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="33%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                        <img src="" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Right Column</h1>
+                        Texthere
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
