@@ -1,51 +1,155 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title></title>
-        <style></style>
-    </head>
-    <body>
-       <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
-    <tr>
-        <td align="center" valign="top">
-            <table border="0" cellpadding="20" cellspacing="0" width="600" id="emailContainer">
-                <tr>
-                    <td align="center" valign="top">
-                        <table border="0" cellpadding="20" cellspacing="0" width="100%" id="emailHeader">
+	</head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+     <center>
+         <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+             <tr>
+                 <td align="center" valign="top">
+                        <!-- // Begin Preheader \\ -->
+                        <table border="0" cellpadding="10" cellspacing="0" width="600">
                             <tr>
-                                <td align="center" valign="top">
-                                   Content--
-								 
-								</td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" valign="top">
-                        <table border="0" cellpadding="20" cellspacing="0" width="100%" id="emailBody">
-                            <tr>
-                                <td align="center" valign="top">
-                                    body--.
+                                <td valign="top" class="preheaderContent">
+                                
+                                 <!-- // Begin Preheader \ -->
+                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                     <tr>
+                                         <td valign="top">
+                                             <div>
+                                                 Frühjahrsputz erledigen lassen von Helpling.
+                                            </div>
+                                         </td>
+                                            <!-- *|IFNOT:Browserseite|* -->
+											<td valign="top" width="170">
+                                             <div>
+                                                 Diese Email wird nicht korrekt angezeigt?<br /><a href="*|ARCHIVE|*" target="_blank">Klicken Sie hier</a>.
+                                            </div>
+                                          </td>
+											<!-- *|END:IF|* -->
+                                        </tr>
+                                    </table>
+                                 <!-- // End Preheader \ -->   
                                 </td>
                             </tr>
                         </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" valign="top">
-                        <table border="0" cellpadding="20" cellspacing="0" width="100%" id="emailFooter">
-                            <tr>
-                                <td align="center" valign="top">
-                                    Footer.
+                        <!-- // End Preheader \\ -->
+                     <table border="0" cellpadding="0" cellspacing="0" width="600">
+                         <tr>
+                             <td align="center" valign="top">
+                                    <!-- // Begin Header \\ -->
+                                 <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tr>
+                                            <td class="headerContent">                                             
+                                                <!-- // Begin Briefkopf - Header \\ -->
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                     <td class="leftHeaderContent">
+                                                           <div>
+                                                             <img src="https://www.helpling.de/img/icon2x/logo.png" style="max-width:180px;"/>
+                                                           </div>
+                                                      </td>
+                                                        <td valign="middle" width="180">
+                                                         <!--// Can contain text \\-->										
+                                                      </td> 
+                                                      </td>
+                                                        <td class="rightHeaderContent">
+                                                            <div>
+                                                             <!-- // Could contain text --> 
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+												<tr>	
+												 <td valign="left" width="180">												  
+                                                         <td class="leftHeaderContent">
+                                                            <div>
+                                                             <img src="https://static.helpling.de/background_bedroom.jpg" style="max-width:400px;"/>
+                                                            </div>	
+							<td>
+							/tr>		
+                                                </table>
+                                                <!-- // Briefkopf - Header \\ -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Header \\ -->
+                                </td>
+                            </tr>
+                         <tr>
+                             <td align="center" valign="top">
+                                    <!-- // Begin Body \\ -->
+                                 <table border="0" cellpadding="10" cellspacing="0" width="600">
+                                     <tr>										
+                                         <td valign="top" class="bodyContent">                                          
+                                                <!-- // Begin Content \\ -->
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top">
+                                                            <div "Content">													
+                                                             <h2 class="h3">Herzlich Wilkommen bei Helpling</h3>
+															 <hr>
+                                                             <p> Vielen Dank, dass Sie sich für Helpling entschieden haben. </p> 
+								<br />
+                                                                <br />
+                                                                <h4 class="h3">Subcontent</h3>
+							 <hr>
+                                              
+							</div>
+							</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Content \\ -->   
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                         <tr>
+                             <td align="center" valign="top">
+                                    <!-- // Begin Template Footer \\ -->
+                                 <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                     <tr>
+                                         <td valign="top" class="footerContent">                                           
+                                                <!-- //Footer \\ -->                                               
+                                                        <td valign="top" width="350">
+                                                            <div "footer">
+															</div>                                                            
+                                                        </td>                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2" valign="middle">                                                       
+                                                        </td>
+                                                    </tr>                                               
+				<td style="vertical-align: middle;text-align: left;padding: 0;margin: 0">
+				    <span class="social">
+					<a href="https://twitter.com/HelplingDE"><img
+					src="http://62.27.38.100/images/6134/C-6134-234921-twitter.png" style="border: 0"/></a>
+					<a href="https://www.facebook.com/helpling.de"><img
+					src="http://62.27.38.100/images/6134/C-6134-234921-facebook.png" style="border: 0"/></a>
+					&nbsp;<a href="*|UNSUB|*">Abmelden</a>&nbsp;
+				   </span>
+					   <!-- //End Footer \\ -->
+					   </td>
+					</table>
+				    <table border="0" cellpadding="0" cellspacing="0" width="600">
+					 <tr>	
+					    <td>	
+						<div>													
+							<p style="color:grey"> <font size= 2>Juwel 157. VV UG (haftungsbeschränkt)  |  Johannisstr. 20  |  10117 Berlin  | Deutschland <br>
+							Geschäftsführer: Arnt Jeschke, Christian Senitz <br>
+						 	Eingetragen beim Amtsgericht Berlin, HRB 140412 B USt-ID DE285882075 </font></p>													
+						</div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
                                 </td>
                             </tr>
                         </table>
+                        <br />
                     </td>
                 </tr>
             </table>
-        </td>
-    </tr>
-</table>
+        </center>
     </body>
 </html>
+
+  
